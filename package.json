@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "id": "app.blackfyre.stubs-per-crud",
+    "name": "stubs-per-crud",
+    "title": "Stubs/CRUD",
+    "description": "A plugin to enable stub customizations per CRUD",
+    "image": "",
+    "main": "src/main.js",
+    "vueComponent": "dist/stubs-per-crud.umd.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blackfyre/vemto-stubs-per-crud-plugin"
+    }
+}
